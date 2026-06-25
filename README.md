@@ -5,12 +5,12 @@ Diploma CSE Student | learning Java | Future Software engineer
 💻 Currently Learning:
  - Java
  - Git & Github
- - Programming Fundamentals
+ - Dta structure
    
 🌱Goals For 2026 :
 -Build Java Projects
 -Improve coding skills
--Create  a strong GitHub Portfolio
+-Learn Web Development
 
 ##Projects 
 -Java programs
